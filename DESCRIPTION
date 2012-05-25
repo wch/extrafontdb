@@ -1,0 +1,11 @@
+Package: fontsdb
+Title: Package for holding the database for the fonts package
+Version: 0.0.1
+Author: Winston Chang <winston@stdout.org>
+Maintainer: Winston Chang <winston@stdout.org>
+Description: Package for holding the database for the fonts package
+Depends:
+    R (>= 2.14)
+License: GPL-2
+Collate:
+    'fontsdb.r'
