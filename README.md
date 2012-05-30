@@ -12,5 +12,8 @@ deleted. By putting the database in a separate package, it is possible to
 update the code package without deleting the database and having to re-import
 the fonts.
 
+Re-installing this package will re-initialize the fonts database, and all
+fonts will need to be re-imported.
+
 See [https://github.com/wch/fonts](https://github.com/wch/fonts) for more
 information.
