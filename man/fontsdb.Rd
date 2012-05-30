@@ -9,6 +9,7 @@
   The fonts package contains the code to install and use
   fonts, while this package contains the directory
   structure to hold the fonts database. See the
-  \link{fonts} for more information.
+  \url{https://github.com/wch/fontsdb} and
+  \url{https://github.com/wch/fonts} for more information.
 }
 
